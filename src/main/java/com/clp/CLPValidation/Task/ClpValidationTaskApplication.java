@@ -20,7 +20,7 @@ public class ClpValidationTaskApplication {
 	}
 	public static void main(String[] args) {
 		logger.info("The spring boot application is starting");
-		SpringApplication.run(ClpValidationTaskApplication.class, args);
+		SpringApplication.run(ClpValidationTaskApplication.class, args)
 		logger.info("Application is started");
 		
 	}
