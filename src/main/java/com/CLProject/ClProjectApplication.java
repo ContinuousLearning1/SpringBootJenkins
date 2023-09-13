@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ClProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClProjectApplication.class, args)
+		SpringApplication.run(ClProjectApplication.class, args);
 		System.out.println("Applications started");
 	}
 
